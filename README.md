@@ -1,4 +1,8 @@
-### Hi there 👋
+## Photon
+
+![](https://img.shields.io/github/followers/1487quantum?style=for-the-badge)
+
+Checkout my blog [here](https://cyaninfinite.com) today!
 
 <!--
 **1487quantum/1487quantum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+> ⚡ Fun fact: A human brain has 86 billion neurons on average.
