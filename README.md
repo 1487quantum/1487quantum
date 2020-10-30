@@ -19,7 +19,16 @@ Here are some ideas to get you started:
 
 > ⚡ Fun fact: A human brain has 86 billion neurons on average.
 
-### Languages & Tools 🧰
+
+<table>
+
+<tr>
+ <th scope="col">Languages & Tools 🧰</th>
+ <th scope="col">Hardware 💽</th>
+</tr>
+<tr>
+ <td>
+  
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -29,11 +38,21 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/markdown-%2349576B.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-
-### Hardware 💽
+</td>
+  
+<td>
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
+  </td>
+  
+</tr>
+</table>
 
 ### GitHub Stats 📈
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1487quantum&layout=compact&langs_count=8" alt="top_lang"/>
-<img src="https://github-readme-stats.vercel.app/api?username=1487quantum&show_icons=true&theme=vue-dark&hide=stars,issues" alt="stats" />
+
+<table>
+<tr>
+ <th scope="col"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1487quantum&layout=compact&langs_count=8" alt="top_lang"/></th>
+ <th scope="col"><img src="https://github-readme-stats.vercel.app/api?username=1487quantum&show_icons=true&theme=vue-dark&hide=stars,issues" alt="stats" /></th>
+</tr>
+  </table>
 
