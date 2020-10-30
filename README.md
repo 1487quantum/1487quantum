@@ -1,8 +1,6 @@
-## Photon
+## Hi there 👋
 
-![](https://img.shields.io/github/followers/1487quantum?style=for-the-badge)
-
-Checkout my blog [here](https://cyaninfinite.com) today!
+Checkout my blog at [https://cyaninfinite.com](https://cyaninfinite.com) today!
 
 <!--
 **1487quantum/1487quantum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,8 +26,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/c%20-%23306998.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%234B8BBE.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/shell_script%20-%2376C48E.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/markdown-%2349576B.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 
 ### Hardware 💽
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
+
+### GitHub Stats 📈
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1487quantum&layout=compact&langs_count=8" alt="top_lang"/>
+<img src="https://github-readme-stats.vercel.app/api?username=1487quantum&show_icons=true&theme=vue-dark&hide=stars,issues" alt="stats" />
+
